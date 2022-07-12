@@ -1,4 +1,4 @@
-# Aotumatic Review Analyzer
+# Automatic Review Analyzer
 
 The goal of this project is to design a classifier to use for sentiment analysis of product reviews. 
 Our training set consists of reviews written by Amazon customers for various food products. 
